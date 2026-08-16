@@ -21,4 +21,15 @@ To analyze data, core components of analytics are divided into the following cat
 
 - **Prescriptive Analysis:** Helps to answer the question ***What steps of action should be taken to achieve the goal or target***. It helps in business decision making. It mostly rely on ML, as it try to find patterns in large semantic model.
   
-- **Artificial Intelligence (AI):** It helps us to ***Answer question from the existing dataset***. AI enables systems to process vast amounts of data, recognize patterns, and deliver insights with minimal human intervention. Its being used in wide range of application. 
+- **Artificial Intelligence (AI):** It helps us to ***Answer question from the existing dataset***. AI enables systems to process vast amounts of data, recognize patterns, and deliver insights with minimal human intervention. Its being used in wide range of application.
+
+#### Roles in data
+- **Business analyst :** A business analyst is closer to the business and is a specialist in interpreting the data that comes from the visualization.
+
+- **Data analyst :** As a Data Analyst the main responsibilities lies in profiling, cleaning, transforming data, designing and building scalable and effective semantic models, and turning the data into meaningful visualization and reporting through tools as Microsoft Power BI and enabling and implementing the advanced analytics capabilities into reports for analysis. They also manage and implementing security procedures for the Power BI assets, including reports, dashboards, workspaces, and the underlying semantic models. 
+
+- Data engineer
+
+- Analytics engineer
+
+- Data scientist
