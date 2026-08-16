@@ -58,6 +58,8 @@ To analyze data, the core components of analytics are divided into the following
 
 #### Tasks of a Data Analyst
 
+<img width="1038" height="481" alt="image" src="https://github.com/user-attachments/assets/9e5364ed-ee29-48d2-9811-8af1fa545e7a" />
+
 * **Prepare:** Data preparation is the process of taking raw data and turning it into information that is trusted and understandable. It involves ensuring data integrity, correcting incorrect or inaccurate data, identifying missing data, converting data from one structure or type to another, and making data more readable. It also involves understanding how data will be obtained and connected, along with the performance implications of those decisions. Privacy and security assurances are also important.
 
 * **Model:** Data modeling is the process of determining how tables are related to each other. This process is performed by defining and creating relationships between tables. An effective semantic model makes reports more accurate, allows data to be explored more efficiently, decreases report development time, and simplifies future report maintenance.
