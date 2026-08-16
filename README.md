@@ -73,3 +73,23 @@ To analyze data, the core components of analytics are divided into the following
   Sharing and discovering content is important for ensuring that the right people get the answers they need. It is also important to ensure that content remains secure. Power BI helps reduce data silos through the use of shared semantic models and allows you to reuse data that you have prepared and modeled. For key business data, endorsing a semantic model as **Certified** can help ensure trust in that data.
 
 ### Chapter 2: Get Started Building with Power BI
+
+#### Introduction
+Microsoft Power BI is a complete reporting solution that offers data preparation, data visualization, distribution, and management through development tools and an online platform.
+
+#### Use Power BI
+There are three primary components to Power BI:
+
+* Power BI Desktop (desktop application) : Power BI Desktop is the development tool available to data analysts and other report creators.
+* Power BI service (online platform) : Power BI service allows you to organize, manage, and distribute your reports and other Power BI items. 
+* Power BI Mobile (cross-platform mobile app) : Power BI Mobile allows consumers to view reports in a mobile-optimized format.
+
+***Explore the flow of Power BI***
+The flow of Power BI is:
+
+1. Connect to data with Power BI Desktop.
+1. Transform data with Power Query Editor (comes with Power BI Desktop).
+1. Model data with Power BI Desktop.
+1. Create visualizations and reports with Power BI Desktop.
+1. Publish report to Power BI service.
+1. Distribute and manage reports in the Power BI service.
