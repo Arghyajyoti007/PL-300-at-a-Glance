@@ -28,8 +28,8 @@ To analyze data, core components of analytics are divided into the following cat
 
 - **Data analyst :** As a Data Analyst the main responsibilities lies in profiling, cleaning, transforming data, designing and building scalable and effective semantic models, and turning the data into meaningful visualization and reporting through tools as Microsoft Power BI and enabling and implementing the advanced analytics capabilities into reports for analysis. They also manage and implementing security procedures for the Power BI assets, including reports, dashboards, workspaces, and the underlying semantic models. 
 
-- Data engineer
+- **Data engineer :** Primary responsibilities of data engineers include the use of on-premises and cloud data services and tools to extract, transform, and load data from multiple sources. Data engineers collaborate with business stakeholders to identify and meet data requirements. 
 
-- Analytics engineer
+- **Analytics engineer :** Analytics engineers bridge the gap between data engineering and analysis by curating data assets in data lakes or lakehouses, ensuring data quality, and enabling self-service analytics. They create semantic models in Power BI to prepare and serve data effectively and also prepare other data stores, such as data warehouses or lakehouses.
 
-- Data scientist
+- **Data scientist :** Data scientists perform advanced analytics to extract value from data. Their work can vary from descriptive analytics to predictive analytics. Descriptive analytics evaluate data through a process known as exploratory data analysis (EDA). Predictive analytics are used in machine learning to apply modeling techniques that can detect anomalies or patterns.
