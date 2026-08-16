@@ -14,6 +14,11 @@
 
 ---
 
+## Roadmap
+<img width="1440" height="720" alt="Gemini_Generated_Image_skn9spskn9spskn9" src="https://github.com/user-attachments/assets/42a4643d-e5ab-4993-85fb-e051b75977ac" />
+
+---
+
 ## Module 1: Get Started with Microsoft Data Analytics
 
 ### Chapter 1: Discover Data Analysis
